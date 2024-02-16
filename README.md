@@ -1,2 +1,2 @@
 # Sobre mim
- Primeiro Repositório 
+ Realizei Técnico de Informática integrado ao ensino médio no ENIAC, onde finalizei no ano de 2023, com período de duração de 3 anos. Participei de estágio nao remunerado na área de RH durante 6 meses, onde aprendi autocrat, atendimento ao cliente, etc. Além disso no técnico realizei alguns projetos utilizando laravel, wordpress, html, css, php e javascript. Possuo conhecimento em ativos de rede, infraestrutura e estou cursando o treinamento da DESEC Security para profissionalização na área de segurança da informação, como consequência, estou me aperfeiçando em python e quero aprender as linguagens C e talvez, num futuro bem distante, assembly! 🎈
